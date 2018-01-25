@@ -1,6 +1,6 @@
 {
   "name": "egg-sider",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "more than redis plugin for eggjs",
   "eggPlugin": {
     "name": "sider",
